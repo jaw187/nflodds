@@ -1,0 +1,31 @@
+{
+  "name": "nflodds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "lab -L -t 100"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaw187/nflodds.git"
+  },
+  "keywords": [
+    "nfl",
+    "odds"
+  ],
+  "author": "James Weston",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaw187/nflodds/issues"
+  },
+  "homepage": "https://github.com/jaw187/nflodds#readme",
+  "dependencies": {
+    "hoek": "^4.0.2",
+    "x-ray": "^2.3.0"
+  },
+  "devDependencies": {
+    "code": "^3.0.2",
+    "lab": "^10.9.0"
+  }
+}
